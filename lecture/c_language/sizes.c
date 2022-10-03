@@ -8,7 +8,7 @@ int main(void)
     /* Data types. YMMV depending on hardware. */
     printf("Sizes of various data types, in bytes.\n");
     printf("Type\t\tbytes\n");
-    printf("WORD_BIT\t%d:\n",WORD_BIT);
+    //printf("WORD_BIT\t%d:\n",WORD_BIT);
     printf("char\t\t%2lu \n", sizeof(char));
     printf("short\t\t%2lu \n", sizeof(short));
     printf("int\t\t%2lu \n", sizeof(int));
