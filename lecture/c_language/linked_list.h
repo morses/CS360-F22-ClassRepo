@@ -5,7 +5,7 @@ typedef struct node
 {
     struct node * next;
     struct node * prev;
-    Item data;
+    void * data;
 } Node;
 
 typedef struct list
@@ -14,9 +14,9 @@ typedef struct list
     int size;
 } DLList;
 
-void append( DLList * list, Item * item );
+void append( DLList * list, void * item );
 void clear( DLList * list );
-Item * pop( DLList * list );
+void * popFront( DLList * list );
 // ...
 
 

@@ -26,7 +26,7 @@ int main(void)
 {
 	// Create (allocate memory) for a union Multi
 	union Multi data;
-	printf("\nsizeof(union Multi) = %d\n\n",sizeof(union Multi));
+	printf("\nsizeof(union Multi) = %ld\n\n",sizeof(union Multi));
 
 	// What's in it now?
 	printMulti( data );
@@ -40,10 +40,10 @@ int main(void)
 	printf("_____data.percentage = 91.456e12_____\n");
 	printMulti( data );
 
-	data.pieces[0] = 0x01;
-	data.pieces[1] = 0x00;
-	data.pieces[2] = 0xff;
-	data.pieces[3] = 0xaa;
+	data.pieces[0] = 'a';//0x01;
+	data.pieces[1] = 'b';//0x00;
+	data.pieces[2] = 'C';//0xff;
+	data.pieces[3] = 'D';//0xaa;
 	printf("_____data.pieces = 0x0100ffaa_____\n");
 	printMulti( data );
 

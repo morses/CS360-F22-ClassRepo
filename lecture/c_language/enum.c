@@ -14,7 +14,7 @@ int main(void)
 		printf("Rainbow is Yellow\n");
 	}
 	bow = Indigo;
-	bow = 200;
+	//bow = 200;
 	switch( bow )
 	{
 		case Red:
@@ -41,5 +41,5 @@ int main(void)
 	}
 	bow = 200;
 
-	printf("Bytes used to store enum Rainbow = %d\n",sizeof(enum Rainbow));
+	printf("Bytes used to store enum Rainbow = %ld\n",sizeof(enum Rainbow));
 }

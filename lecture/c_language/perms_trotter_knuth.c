@@ -8,7 +8,7 @@ due to Trotter CACM 1962, and Johnson.
 -Scot Morse
 */
 
-#define NMAX 12
+#define NMAX 4
 
 // What to do with each permutation
 void visit(int P[], int N)
@@ -39,7 +39,7 @@ int main( void )
 		o[j] = 1;
 	}
 P2: 	// Visit a[1:n]
-//	visit(a,n);
+	visit(a,n);
 	// Prepare for change
 P3:	j = n;
 	s = 0;
