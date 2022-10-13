@@ -49,6 +49,7 @@ int main (int argc, char *argv[])
 	laser_setBrightness(scanner.laser, 0.25);
 	laser_on(scanner.laser);
 	laser_enable(scanner.laser);
+    //laser.setPeriod(660);
 
     printf("...initializing light source");
     //...
