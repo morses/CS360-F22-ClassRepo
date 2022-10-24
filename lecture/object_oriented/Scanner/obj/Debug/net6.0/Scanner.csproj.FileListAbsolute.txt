@@ -1,0 +1,15 @@
+/home/morses/cs360/CS360-F22-ClassRepo/lecture/object_oriented/Scanner/bin/Debug/net6.0/Scanner
+/home/morses/cs360/CS360-F22-ClassRepo/lecture/object_oriented/Scanner/bin/Debug/net6.0/Scanner.deps.json
+/home/morses/cs360/CS360-F22-ClassRepo/lecture/object_oriented/Scanner/bin/Debug/net6.0/Scanner.runtimeconfig.json
+/home/morses/cs360/CS360-F22-ClassRepo/lecture/object_oriented/Scanner/bin/Debug/net6.0/Scanner.dll
+/home/morses/cs360/CS360-F22-ClassRepo/lecture/object_oriented/Scanner/bin/Debug/net6.0/Scanner.pdb
+/home/morses/cs360/CS360-F22-ClassRepo/lecture/object_oriented/Scanner/obj/Debug/net6.0/Scanner.csproj.AssemblyReference.cache
+/home/morses/cs360/CS360-F22-ClassRepo/lecture/object_oriented/Scanner/obj/Debug/net6.0/Scanner.GeneratedMSBuildEditorConfig.editorconfig
+/home/morses/cs360/CS360-F22-ClassRepo/lecture/object_oriented/Scanner/obj/Debug/net6.0/Scanner.AssemblyInfoInputs.cache
+/home/morses/cs360/CS360-F22-ClassRepo/lecture/object_oriented/Scanner/obj/Debug/net6.0/Scanner.AssemblyInfo.cs
+/home/morses/cs360/CS360-F22-ClassRepo/lecture/object_oriented/Scanner/obj/Debug/net6.0/Scanner.csproj.CoreCompileInputs.cache
+/home/morses/cs360/CS360-F22-ClassRepo/lecture/object_oriented/Scanner/obj/Debug/net6.0/Scanner.dll
+/home/morses/cs360/CS360-F22-ClassRepo/lecture/object_oriented/Scanner/obj/Debug/net6.0/refint/Scanner.dll
+/home/morses/cs360/CS360-F22-ClassRepo/lecture/object_oriented/Scanner/obj/Debug/net6.0/Scanner.pdb
+/home/morses/cs360/CS360-F22-ClassRepo/lecture/object_oriented/Scanner/obj/Debug/net6.0/Scanner.genruntimeconfig.cache
+/home/morses/cs360/CS360-F22-ClassRepo/lecture/object_oriented/Scanner/obj/Debug/net6.0/ref/Scanner.dll
